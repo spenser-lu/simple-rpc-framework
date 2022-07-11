@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.luxiuyang.rpc_client.config.ClientConfig,\
+  com.luxiuyang.rpc_client.config.ServiceBeanDefinitionRegistry
+

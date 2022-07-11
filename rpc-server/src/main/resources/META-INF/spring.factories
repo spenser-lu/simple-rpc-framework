@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.luxiuyang.rpc_server.config.RPCServerConfig
